@@ -1,5 +1,20 @@
 # Global-Store-2016-Sales-Analysis-Report
 
+## Contents
+
+-  [Project Overview](#project-overview)
+ - [Data Source & Tools](#data-source--tools)
+- [Technical Implementation & Workflow](#technical-implementation--workflow-️)
+ -  [Key Findings and Business Recommendations](#key-findings-and-business-recommendations)
+ - [Report Screenshots](#report-screenshot)
+  - [Author & Call to Action](#author--call-to-action)
+
+
+
+
+
+---
+
 ## Project Overview
 
 A professional Power BI project. End-to-end Sales and Profitability analysis for a Global Retail Store, leveraging DAX and a star schema model to provide actionable BI insights.
@@ -155,7 +170,7 @@ The final Power BI dashboard allows executive stakeholders to:
 
 ---
 
-### 4- Visualization and User Experience (UX)
+## Visualization and User Experience (UX)
 
    - **Report Structure:**  Designed a five-page report focusing on *`Sales`, `Returns`, `Customers`, `Products` and `Insights`*
    - **Design Principles:** Followed best practices for data visualization ( fixed color pallet, consistent sync filtering, clean aesthetic) to ensure maximum usability and readability.
@@ -163,7 +178,7 @@ The final Power BI dashboard allows executive stakeholders to:
 
 ---
 
-## 5- Key Findings and Business Recommendations
+## Key Findings and Business Recommendations
 
   ### Insights: 
 
@@ -216,8 +231,10 @@ The final Power BI dashboard allows executive stakeholders to:
 - Manage products in class "High Sales- Low Profit" to improve their profit value by many approaches like :
     Price changing, Cost reducing, Vendor changing.
     
+
+  --- 
   
-## 5- Report Screenshots
+##  Report Screenshots
 
 ### 1- Overview- Sales Analysis
 
@@ -242,6 +259,24 @@ The final Power BI dashboard allows executive stakeholders to:
 ### Model Schema
 
 <img width="1481" height="747" alt="Model Schema" src="https://github.com/user-attachments/assets/034dca62-21d5-4ff6-ad39-6cce86726824" />
+
+
+--- 
+
+# Author & Call to Action
+
+This project showcases my disciplined approach to leveraging advanced analytics (DAX, Cohort, Pareto) to deliver tangible business value and actionable strategy.
+I am actively seeking **Data Analyst, BI Developer, and related freelance opportunities.**
+
+| Field | Details |
+| -----| -------- |
+| Name | Ahmed Hamdy |
+| Professional Title | PL-300 Certified Data Analyst |
+| Email | ahmedhamdy9821@gmail.com |
+| LinkedIn | <a href="https://www.linkedin.com/in/ahmed-hamdy-a3b927196/">linkedin Profile →</a> |
+| Phone (WhatsApp)	| (+966)-534955363 |
+| Resident in | Jeddah, Saudi Arabia |
+
 
 
 
