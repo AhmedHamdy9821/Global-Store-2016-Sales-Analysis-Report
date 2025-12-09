@@ -1,4 +1,4 @@
-# Global-Store-2016-Sales-Analysis-Report
+# Global-Store-2016-Sales-Analysis-Report 📊
 
 ## Contents
 
@@ -6,7 +6,7 @@
  - [Data Source & Tools](#data-source--tools)
 - [Technical Implementation & Workflow](#technical-implementation--workflow-️)
  -  [Key Findings and Business Recommendations](#key-findings-and-business-recommendations)
- - [Report Screenshots](#report-screenshot)
+ - [Report Screenshots](#report-screenshots)
   - [Author & Call to Action](#author--call-to-action)
 
 
