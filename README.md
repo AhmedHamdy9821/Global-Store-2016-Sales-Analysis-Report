@@ -219,15 +219,27 @@ The final Power BI dashboard allows executive stakeholders to:
   
 ## 5- Report Screenshots
 
+### 1- Overview- Sales Analysis
+
 <img width="1327" height="743" alt="1- Overview- Sales Analysis" src="https://github.com/user-attachments/assets/881e7f17-2336-45df-a4c9-75137c4e059a" />
+
+### 2- Returns Analysis
 
 <img width="1327" height="739" alt="2- Returns Analysis" src="https://github.com/user-attachments/assets/87aafcc2-9e12-4ca2-b810-11a03714306e" />
 
+### 3- Customers Analysis
+
 <img width="1325" height="736" alt="3- Customers Analysis" src="https://github.com/user-attachments/assets/bd14f25f-4d62-4ec8-a8e5-4c6290b9e466" />
+
+### 4- Products Analysis
 
 <img width="1326" height="744" alt="4- Products Analysis" src="https://github.com/user-attachments/assets/e671002f-2b71-4164-a6f3-0fb2970c7fdc" />
 
+### 5- Insights % Recommendations
+
 <img width="1327" height="744" alt="5- Insights % Recommendations" src="https://github.com/user-attachments/assets/9b2947a1-809c-4453-b826-3f261aed10ce" />
+
+### Model Schema
 
 <img width="1481" height="747" alt="Model Schema" src="https://github.com/user-attachments/assets/034dca62-21d5-4ff6-ad39-6cce86726824" />
 
